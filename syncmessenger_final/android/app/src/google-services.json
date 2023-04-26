@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79972476996",
+    "project_id": "sync-message-e964b",
+    "storage_bucket": "sync-message-e964b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79972476996:android:0128cf34c44a146e94f411",
+        "android_client_info": {
+          "package_name": "com.example.syncmessenger_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79972476996-n22v25befg13snlvq7v55upbgd5ebvoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIYU6fJeoM5J1Wf2CVeiLZvx9eAGJBEz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79972476996-n22v25befg13snlvq7v55upbgd5ebvoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
