@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="078f545a-5780-4021-84b2-ab06e5aefeb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MAD_PWA_mini-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syncmessenger_final/lib/chatpage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/syncmessenger_final/lib/chatpage.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syncmessenger_final/lib/comps/animated-dialog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/syncmessenger_final/lib/comps/animated-dialog.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syncmessenger_final/lib/comps/styles.dart" beforeDir="false" afterPath="$PROJECT_DIR$/syncmessenger_final/lib/comps/styles.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syncmessenger_final/lib/comps/widgets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/syncmessenger_final/lib/comps/widgets.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/syncmessenger_final/lib/homepage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/syncmessenger_final/lib/homepage.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/syncmessenger_final/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/syncmessenger_final/lib/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,21 +24,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "io.flutter.reload.alreadyRun": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kevin/OneDrive/Documents/GitHub/TESTING for sync&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="FlutterRunConfigurationType" factoryName="Flutter">
       <option name="filePath" value="$PROJECT_DIR$/syncmessenger_final/lib/main.dart" />
