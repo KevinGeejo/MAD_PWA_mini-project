@@ -25,10 +25,10 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.indigo.shade400,
+      backgroundColor: Colors.blue.shade300,
       appBar: AppBar(
-        backgroundColor: Colors.indigo.shade400,
-        title: const Text('Sync Messenger'),
+        backgroundColor: Colors.blue.shade300,
+        title: const Text('Sync'),
         elevation: 0,
         centerTitle: true,
         actions: [
@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Container(
                   margin: const EdgeInsets.all(0),
                   child: Container(
-                    color: Colors.indigo.shade400,
+                    color: Colors.blue.shade300,
                     padding: const EdgeInsets.all(8),
                     height: 160,
                     child: Column(
@@ -126,7 +126,7 @@ class _MyHomePageState extends State<MyHomePage> {
                               horizontal: 20, vertical: 20),
                           child: Text(
                             'Contacts',
-                            style: Styles.h1().copyWith(color: Colors.indigo),
+                            style: Styles.h1().copyWith(color: Colors.blue.shade400),
                           ),
                         ),
                         Expanded(

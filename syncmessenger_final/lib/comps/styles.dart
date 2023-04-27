@@ -16,14 +16,14 @@ class Styles {
   static messagesCardStyle(check) {
     return BoxDecoration(
       borderRadius: BorderRadius.circular(10),
-      color: check ? Colors.indigo.shade300: Colors.grey.shade300,
+      color: check ? Colors.blue.shade300: Colors.grey.shade300,
     );
   }
 
   static messageFieldCardStyle() {
     return BoxDecoration(
         color: Colors.white,
-        border: Border.all(color: Colors.indigo),
+        border: Border.all(color: Colors.blue.shade300),
         borderRadius: BorderRadius.circular(10));
   }
 

@@ -46,7 +46,7 @@ class ChatWidgets {
           children:  [
             const CircleAvatar(
               radius: 25,
-              backgroundColor: Colors.grey,
+              backgroundColor: Colors.black38,
               child: Icon(
                 Icons.person,
                 size: 40,
@@ -75,7 +75,7 @@ class ChatWidgets {
                 size: 13,
                 color: Colors.white,
               ),
-              backgroundColor: Colors.grey,
+              backgroundColor: Colors.black38,
               radius: 10,
             ),
           ConstrainedBox(
@@ -97,7 +97,7 @@ class ChatWidgets {
                 size: 13,
                 color: Colors.white,
               ),
-              backgroundColor: Colors.grey,
+              backgroundColor: Colors.black38,
               radius: 10,
             ),
           if (!check) const Spacer(),
@@ -126,7 +126,7 @@ class ChatWidgets {
     final name = _auth.currentUser!.displayName ?? _auth.currentUser!.email;
 
     return Drawer(
-      backgroundColor: Colors.indigo.shade400,
+      backgroundColor: Colors.blue.shade300,
       child: SafeArea(
         child: Padding(
           padding: const EdgeInsets.symmetric(vertical: 18.0, horizontal: 20),
@@ -142,7 +142,7 @@ class ChatWidgets {
                     color: Colors.white,
                   ),
                   radius: 60,
-                  backgroundColor: Colors.grey,
+                  backgroundColor: Colors.black38,
                 ),
                 const SizedBox(height: 10),
                 Center(
